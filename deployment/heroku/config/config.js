@@ -5,8 +5,8 @@ window.Retro = {
     "scripts": ["application.js"],
     "stylesheets": ["application.css"],
     "useRevManifest": true,
-    "api_base_url": "https://{{api-app-name}}.herokuapp.com",
-    "websocket_url": "wss://{{api-app-name}}.herokuapp.com/cable",
+    "api_base_url": "https://fierce-citadel-35239.herokuapp.com",
+    "websocket_url": "wss://fierce-citadel-35239.herokuapp.com/cable",
     "contact": "",
     "terms": "",
     "privacy": ""

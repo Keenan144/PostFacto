@@ -2,7 +2,7 @@
 
 set -e
 
-rm -r package
+#rm -r package
 mkdir package
 
 # BUILD FRONT-END
